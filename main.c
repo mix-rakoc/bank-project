@@ -5,8 +5,20 @@ int main () {
 		"\t1. Kredit\n"
 		"\t2. Minus\n");
 	
-
-
+		
+	int opcija = -1;
+	
+	
+	
+	while(opcija != 1 && opcija != 2)
+	{
+		scanf("%d" , &opcija);
+		if(opcija != 1 && opcija != 2)
+		{
+			printf("Greska mozete samo 1 ili 2");		
+		}
+	}
+	
 
 
 
