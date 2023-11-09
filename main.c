@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 	#include <stdio.h>
 
 int main() {
@@ -9,3 +10,5 @@ int main() {
 
 	return 0;
 }
+=======
+>>>>>>> parent of acda52a (Prvi i drugi commit)
